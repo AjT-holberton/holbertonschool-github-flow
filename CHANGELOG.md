@@ -1,4 +1,4 @@
 ## v1.1.0
-   - introductio and history updates
-   - conflict resolution in docs/collaboration.md
 
+- Added new documentation content (introduction and history updates).
+- Resolved a conflict and improved the collaboration document.
